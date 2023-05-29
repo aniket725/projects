@@ -12,7 +12,7 @@ body
 {
     background-image: url(/road.jpg);
     background-repeat: repeat;
-    background-color: rgb(18, 139, 5);
+/*     background-color: rgb(18, 139, 5); */
 }
 
 .stucture
